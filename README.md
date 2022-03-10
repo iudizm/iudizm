@@ -7,8 +7,7 @@
 - 📫 Reach me: **iudizm@pm.me**
 
 ```json
-"skills": 
-{
+"skills": {
     "Languages":
         ["PHP", "Ruby", "Java", "Python", "JavaScript"], 
     "Databases":
