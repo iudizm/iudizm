@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Iudi</h1>
 
-- 🎓 I'm graduating in **Information and Communication Technologies at UFSC**(https://tic.ufsc.br/)
+- 🎓 I'm studying **Information and Communication Technologies at UFSC**(https://tic.ufsc.br/)
 - 🔭 I’m currently working at [**Lepidus**](https://github.com/lepidus) as a **web/infraestructure developer**
 - 🌱 I’m currently learning about **Ruby, Ruby on Rails, Docker, CI/CD**
 - 📖 I'm looking forward to learn **SOLID, Design Patterns, Infraestructure as Code**
