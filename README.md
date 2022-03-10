@@ -6,6 +6,7 @@
 - 📖 I'm looking forward to learn **SOLID, Design Patterns, Infraestructure as Code**
 - 📫 Reach me: **iudizm@pm.me**
 
+<!--
 ```json
 "skills": {
     "Languages":
@@ -26,3 +27,4 @@
     }
 }
 ```
+-->
