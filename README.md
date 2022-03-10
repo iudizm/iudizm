@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Iudi</h1>
 
-<!--
-**iudizm/iudizm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm graduating in **Information and Communication Technologies at UFSC**(https://tic.ufsc.br/)
+- 🔭 I’m currently working at [**Lepidus**](https://github.com/lepidus) as a **web/infraestructure developer**(as an intern)
+- 🌱 I’m currently learning about **Ruby, Ruby on Rails, Docker, CI/CD**
+- 📖 I'm looking forward to learn **SOLID, Design Patterns, Infraestructure as Code**
+- 📫 Reach me: **iudizm@pm.me**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+"skills": 
+{
+    "Languages":
+        ["PHP", "Ruby", "Java", "Python", "JavaScript"], 
+    "Databases":
+        ["PostgreSQL", "MySQL", "MariaDB"],
+    "DevOps":
+        ["GIT", "CI/CD", "Docker", "GitLab CI", "GitHub Actions", "Heroku"],
+    "Architectures":
+        ["MVC"],
+    "Web Development": {
+        "Frontend":
+            ["HTML", "CSS", "JavaScript", "Smarty", "Bootstrap"]
+        "Backend":
+            ["PHP", "Ruby"],
+        "Frameworks":
+            ["Ruby on Rails"],
+    }
+}
+```
